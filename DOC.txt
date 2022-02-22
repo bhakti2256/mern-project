@@ -1,0 +1,3 @@
+Memories - Photo sharing website 
+
+This is a MERN stack(Mongoose, Express, React, Node) application.
